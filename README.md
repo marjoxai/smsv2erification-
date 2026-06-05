@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -488,3 +488,4 @@
 
 </body>
 </html>
+](https://github.com/marjoxai/smsv2erification-/commit/189ec1a52e80ee736f0f96bd1a9aa2fd09a464e7)
